@@ -2,6 +2,16 @@
 this is a solution to the greedy knapsack problem 
 
 
+
+
+
+
+
+
+
+
+
+
 #include<stdio.h>
 #include<iostream>
 using namespace std:
